@@ -32,8 +32,8 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		// Leave this array empty to use the default favicon
 		{
-		  src: '/favicon/icon.webp',    // Path of the favicon, relative to the /public directory
-		}
+			src: "/favicon/icon.webp", // Path of the favicon, relative to the /public directory
+		},
 	],
 };
 
