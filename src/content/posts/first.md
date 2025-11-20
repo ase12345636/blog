@@ -3,8 +3,8 @@ title: Blog始業式：為甚麼要寫Blog
 published: 2025-11-20
 description: ''
 image: ''
-tags: [雜記]
-category: '各種雜記'
+tags: [心得, 雜記]
+category: '其他文章'
 draft: false
 lang: 'zh_TW'
 ---
