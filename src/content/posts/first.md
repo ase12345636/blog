@@ -1,7 +1,7 @@
 ---
 title: Blog始業式：為甚麼要寫Blog
 published: 2025-11-20
-description: ''
+description: '第一篇文章，聊聊為什麼想寫Blog。'
 image: ''
 tags: [心得, 雜記]
 category: '其他文章'
