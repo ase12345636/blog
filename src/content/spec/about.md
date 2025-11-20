@@ -1,9 +1,18 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+## 自我介紹
+Hi, 我叫做張簡雲翔，複姓張簡（不用懷疑）。之前國小上英文補習班的時候，老師幫我取英文名 - Terry，所以就用在這邊當筆名了。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+想要一個可以講自己想講跟分享事情的平台，所以架了這個平台，甚麼東西都可能會有，可以多多參考（？
+
+如果想要知道更多有關我的資訊，可以瀏覽我的[個人網站](https://ase12345636.github.io)。
+
+## 推薦分享
+感覺只有上面那一段的自我介紹，感覺有點空虛，所以我想推（安）薦（利）一些我很喜歡的東西。
+
+- [『ユイカ』](https://www.youtube.com/@yuika_singuitar)：超級無敵可愛的日本歌手，歌都超級好聽！我覺得大家都應該去聽一下。
+- 各種動漫：我特別愛看戀愛番，歡迎各位可以多多推薦！
+
+## 一些近況
+我目前在國立臺灣師範大學資訊工程學系修讀碩士班，研究方向主要在生物資訊學，所以會看到我分享一些相關文章。
+一部分是分享，一部分是當成筆記本再用XD
