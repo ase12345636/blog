@@ -1,7 +1,7 @@
 ---
 title: 研究生生存日記：為什麼想讀研究所
 published: 2025-12-01
-description: '聊聊讀研究所的初心與近況。'
+description: ''
 image: ''
 tags: [心得, 雜記]
 category: '研究生生存日記'
