@@ -83,10 +83,17 @@ export async function getCategoryList(): Promise<Category[]> {
 		return import.meta.env.PROD ? data.draft !== true : true;
 	});
 	const count: { [key: string]: number } = {};
-	allBlogPosts.forEach((post: { data: { category: string | null } }) => {
+	const latestDate: { [key: string]: Date } = {};
+	
+	allBlogPosts.forEach((post: { data: { category: string | null; published: Date } }) => {
+		const postDate = new Date(post.data.published);
+		
 		if (!post.data.category) {
 			const ucKey = i18n(I18nKey.uncategorized);
 			count[ucKey] = count[ucKey] ? count[ucKey] + 1 : 1;
+			if (!latestDate[ucKey] || postDate > latestDate[ucKey]) {
+				latestDate[ucKey] = postDate;
+			}
 			return;
 		}
 
@@ -96,10 +103,13 @@ export async function getCategoryList(): Promise<Category[]> {
 				: String(post.data.category).trim();
 
 		count[categoryName] = count[categoryName] ? count[categoryName] + 1 : 1;
+		if (!latestDate[categoryName] || postDate > latestDate[categoryName]) {
+			latestDate[categoryName] = postDate;
+		}
 	});
 
 	const lst = Object.keys(count).sort((a, b) => {
-		return a.toLowerCase().localeCompare(b.toLowerCase());
+		return latestDate[b].getTime() - latestDate[a].getTime();
 	});
 
 	const ret: Category[] = [];

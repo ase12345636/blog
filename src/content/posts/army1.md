@@ -4,7 +4,7 @@ published: 2026-01-29
 description: ''
 image: ''
 tags: [心得, 雜記]
-category: '補充兵之旅三部曲'
+category: '補充兵之旅'
 draft: false
 lang: 'zh_TW'
 ---
