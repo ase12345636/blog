@@ -22,8 +22,9 @@ Hi, 我叫做張簡雲翔，複姓張簡（不用懷疑）。之前國小上英�
 
 因為喜歡日本文化，所以在認真研讀日文中，所以看到這個網站出現日文文章是正常的XD
 
-謝謝各位，我有票噴霧是有用的，我有抽到tuki.的票！
 ## 演唱會參戰紀錄
 2026</br>
+0531／『ユイカ』／2nd Asia Tour in Taipei (reserve)</br>
+0530／『ユイカ』／2nd Asia Tour in Taipei (reserve)</br>
 0405／tuki.／1st ASIA TOUR 2026 in TAIPEI (reserve)</br>
-0109／りりあ。／One-Man Live in Taipei 2026 (reserve)
+0109／りりあ。／One-Man Live in Taipei 2026 秋の予兆
