@@ -1,4 +1,6 @@
 .custom-md {
+    @apply text-justify;
+    
     h1 {
         @apply text-3xl;
     }
