@@ -84,29 +84,31 @@ export async function getCategoryList(): Promise<Category[]> {
 	});
 	const count: { [key: string]: number } = {};
 	const latestDate: { [key: string]: Date } = {};
-	
-	allBlogPosts.forEach((post: { data: { category: string | null; published: Date } }) => {
-		const postDate = new Date(post.data.published);
-		
-		if (!post.data.category) {
-			const ucKey = i18n(I18nKey.uncategorized);
-			count[ucKey] = count[ucKey] ? count[ucKey] + 1 : 1;
-			if (!latestDate[ucKey] || postDate > latestDate[ucKey]) {
-				latestDate[ucKey] = postDate;
+
+	allBlogPosts.forEach(
+		(post: { data: { category: string | null; published: Date } }) => {
+			const postDate = new Date(post.data.published);
+
+			if (!post.data.category) {
+				const ucKey = i18n(I18nKey.uncategorized);
+				count[ucKey] = count[ucKey] ? count[ucKey] + 1 : 1;
+				if (!latestDate[ucKey] || postDate > latestDate[ucKey]) {
+					latestDate[ucKey] = postDate;
+				}
+				return;
 			}
-			return;
-		}
 
-		const categoryName =
-			typeof post.data.category === "string"
-				? post.data.category.trim()
-				: String(post.data.category).trim();
+			const categoryName =
+				typeof post.data.category === "string"
+					? post.data.category.trim()
+					: String(post.data.category).trim();
 
-		count[categoryName] = count[categoryName] ? count[categoryName] + 1 : 1;
-		if (!latestDate[categoryName] || postDate > latestDate[categoryName]) {
-			latestDate[categoryName] = postDate;
-		}
-	});
+			count[categoryName] = count[categoryName] ? count[categoryName] + 1 : 1;
+			if (!latestDate[categoryName] || postDate > latestDate[categoryName]) {
+				latestDate[categoryName] = postDate;
+			}
+		},
+	);
 
 	const lst = Object.keys(count).sort((a, b) => {
 		return latestDate[b].getTime() - latestDate[a].getTime();
