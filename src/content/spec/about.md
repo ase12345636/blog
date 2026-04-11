@@ -26,6 +26,6 @@ Hi, 我叫做張簡雲翔，複姓張簡（不用懷疑）。之前國小上英�
 2026</br>
 0531／『ユイカ』／2nd Asia Tour in Taipei (reserve)</br>
 0530／『ユイカ』／2nd Asia Tour in Taipei (reserve)</br>
-0411／MyGO!!!!! x Ave Mujica／BanG Dream! Special LIVE in TAIPEI (reserve)</br>
+0411／MyGO!!!!! x Ave Mujica／BanG Dream! Special LIVE in TAIPEI</br>
 0405／tuki.／1st ASIA TOUR 2026 in TAIPEI</br>
 0109／りりあ。／One-Man Live in Taipei 2026
