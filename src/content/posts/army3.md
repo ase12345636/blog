@@ -1,7 +1,7 @@
 ---
 title: 補充兵之旅四部曲之三：補充兵的週末與打飯班
 published: 2026-02-01
-description: ''
+description: '補充兵的日常的延伸，特別想講講特殊任務－打飯班。打飯班真的狗都不當。'
 image: ''
 tags: [心得, 雜記]
 category: '補充兵之旅'

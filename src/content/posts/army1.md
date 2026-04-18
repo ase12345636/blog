@@ -1,7 +1,7 @@
 ---
 title: 補充兵之旅四部曲之一：前言
 published: 2026-01-29
-description: ''
+description: '補充兵之旅的開始，講講到底什麼是補充兵與一些前情提要。'
 image: ''
 tags: [心得, 雜記]
 category: '補充兵之旅'

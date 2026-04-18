@@ -1,7 +1,7 @@
 ---
 title: 補充兵之旅四部曲之四：各種回憶們與結語
 published: 2026-02-19
-description: ''
+description: '每一篇故事總有一個結束，落幕的過程中更要仔細地回憶過去。'
 image: ''
 tags: [心得, 雜記]
 category: '補充兵之旅'

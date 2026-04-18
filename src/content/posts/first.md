@@ -1,7 +1,7 @@
 ---
 title: Blog始業式：為甚麼要寫Blog
 published: 2025-11-20
-description: ''
+description: '好的開始，必然會有一個好的結束。這就是這個Blog一切的開始。'
 image: ''
 tags: [心得, 雜記]
 category: '其他文章'

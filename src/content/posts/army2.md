@@ -1,7 +1,7 @@
 ---
 title: 補充兵之旅四部曲之二：補充兵日常
 published: 2026-01-30
-description: ''
+description: '講講補充兵的通用日常，或許有一些是常備役也會重疊到的地方？'
 image: ''
 tags: [心得, 雜記]
 category: '補充兵之旅'
