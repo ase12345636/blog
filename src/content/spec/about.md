@@ -9,11 +9,11 @@ Hi, 我叫做張簡雲翔，複姓張簡（不用懷疑）。之前國小上英�
 
 ## 推薦分享
 感覺只有上面那一段的自我介紹，感覺有點空虛，所以我想推（安）薦（利）一些我很喜歡的東西。
-
-- [『ユイカ』](https://www.youtube.com/@yuika_singuitar)：超級無敵可愛的日本歌手，歌都超級好聽！我覺得大家都應該去聽一下。
 - 各種動漫：我特別愛看戀愛番，歡迎各位可以多多推薦！（順帶一提，如果很喜歡的作品，我會買原作來看）
-- 其他J-pop：因為我特愛『ユイカ』，所以他被獨立在最前面XD，但是還是有很多我也喜歡的歌手，強烈推薦大家去聽！
+- J-pop：我有很多喜歡的歌手，強烈推薦大家去聽！
+    - [Aogumo](https://www.youtube.com/@aogumo_aoikumo)
     - [tuki.](https://www.youtube.com/channel/UCp74ruKv2sUiI2HqEhH8pRw)
+    - [『ユイカ』](https://www.youtube.com/@yuika_singuitar)
     - [りりあ。](https://www.youtube.com/@%E3%82%8A%E3%82%8A%E3%81%82-r8p)
 
 ## 一些近況
